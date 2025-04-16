@@ -3,3 +3,4 @@ Anomaly_new 1.txt
 __pycache__/
 .venv/
 *.py[cod]
+*.log
