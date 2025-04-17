@@ -1,0 +1,24 @@
+Tabella: "Anomaly_new":
+
+Elenco Campi:
+
+01 - Campo: "TimeStamp"                   (datetime)
+02 - Campo: "giorno_settimana"            (integer)
+03 - Campo: "EP1-NEW_Potenza_Attiva"      (float)
+04 - Campo: "EP1-NEW_Potenza_Reattiva"    (float)
+05 - Campo: "Rapporto_di_Potenza_EP1_NEW" (float)
+06 - Campo: "EP2-NEW_Potenza_Attiva"      (float)
+07 - Campo: "EP2-NEW_Potenza_Reattiva"    (float)
+08 - Campo: "Rapporto_di_Potenza_EP2_NEW" (float)
+09 - Campo: "EP3-NEW_Potenza_Attiva"      (float)
+10 - Campo: "EP3-NEW_Potenza_Reattiva"    (float)
+11 - Campo: "Rapporto_di_Potenza_EP3_NEW" (float)
+12 - Campo: "EP4-NEW_Potenza_Attiva"      (float)
+13 - Campo: "EP4-NEW_Potenza_Reattiva"    (float)
+14 - Campo: "Rapporto_di_Potenza_EP4_NEW" (float)
+15 - Campo: "EP5-NEW_Potenza_Attiva"      (float)
+16 - Campo: "EP5-NEW_Potenza_Reattiva"    (float)
+17 - Campo: "Rapporto_di_Potenza_EP5_NEW" (float)
+18 - Campo: "STS_Potenza_Attiva"          (float)
+19 - Campo: "STS_Potenza_Reattiva"        (float)
+20 - Campo: "euclidean_distance"          (float)
